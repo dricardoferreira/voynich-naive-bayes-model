@@ -1,1 +1,11 @@
-
+{
+  "training_corpus": {
+    "Botanical": ["qokedy", "qokain", "qoky", "chey"],
+    "Pharmaceutical": ["checthy", "chey", "qokchey", "cheol"],
+    "Balneological": ["qokol", "schol", "sody", "shesol"],
+    "Astronomical": ["otardy", "otarak", "qokotar", "chedary"]
+  },
+  "test_folios": {
+    "f84r": ["qokol", "sheol", "cheol", "sody", "qokedy", "schol", "qokal", "ykeol"]
+  }
+}
