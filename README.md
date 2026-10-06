@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1406670985.svg)](https://doi.org/10.5281/zenodo.23179440)
+
 # voynich-naive-bayes-model
 Categorical Naive Bayes Model &amp; Slot Parsing Engine for MS 408 Research.
 
