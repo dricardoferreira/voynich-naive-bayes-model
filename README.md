@@ -105,7 +105,6 @@ If you use this model or dataset in your research, please cite:
   author={Ferreira, Denis Ricardo Tavares},
   note={In Computational Collaboration with Gemini (Google AI)},
   year={2026},
-  journal={Cryptologia (Under Review)},
   doi={10.5281/zenodo.23179440}
 }
 ```
